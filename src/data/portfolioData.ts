@@ -64,7 +64,7 @@ export const PERSONAL_INFO = {
     degree: "B.E. Computer Science & Engineering",
     institution: "Gnanamani College of Technology",
     location: "Namakkal, India",
-    cgpa: "8.09",
+    cgpa: "8.05",
     graduationYear: "Expected 2027"
   },
   aboutText: [
@@ -152,7 +152,7 @@ export const EXPERIENCES: ExperienceItem[] = [
     role: "AI Builder Intern",
     company: "MirAI School of Technology",
     locationType: "Virtual",
-    period: "2026",
+    period: "Jun 2026 – Aug 2026",
     track: "AI Builder",
     bullets: [
       "Developed AI-powered applications using Python, Streamlit, and the Gemini API.",

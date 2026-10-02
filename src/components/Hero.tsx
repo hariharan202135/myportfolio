@@ -93,7 +93,7 @@ export default function Hero() {
             {/* Updated Statistics Cards Banner */}
             <div className="grid grid-cols-3 gap-3 py-2 max-w-lg">
               <div className="glass-card p-3.5 rounded-xl border border-gray-800 text-left transition-all hover:border-cyan-500/30">
-                <div className="text-2xl font-extrabold text-cyan-400 font-mono">8.09</div>
+                <div className="text-2xl font-extrabold text-cyan-400 font-mono">8.05</div>
                 <div className="text-xs font-medium text-gray-400 pt-0.5">B.E. CSE CGPA</div>
               </div>
               <div className="glass-card p-3.5 rounded-xl border border-gray-800 text-left transition-all hover:border-purple-500/30">

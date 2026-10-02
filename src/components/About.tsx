@@ -24,7 +24,7 @@ const developer = {
 const metrics = {
   academics: {
     status: "Active CSE Undergraduate",
-    cgpaScore: 8.09,
+    cgpaScore: 8.05,
     expectedGraduation: 2027
   },
   practicalWork: {
