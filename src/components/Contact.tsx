@@ -137,7 +137,7 @@ export default function Contact() {
 
             <a
               href={PERSONAL_INFO.resumePath}
-              download="N_Hariharan_Resume.pdf"
+              download="N_Hariharan_Resume_October_2026.pdf"
               className="w-full glass-card p-4 rounded-2xl border border-cyan-500/30 text-cyan-300 hover:bg-cyan-500/10 flex items-center justify-center space-x-2 text-xs font-mono font-bold transition-all shadow-lg"
             >
               <Download className="w-4 h-4 text-cyan-400" />

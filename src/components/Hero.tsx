@@ -120,7 +120,7 @@ export default function Hero() {
               {/* Button 2: Download Resume */}
               <a
                 href={PERSONAL_INFO.resumePath}
-                download="N_Hariharan_Resume.pdf"
+                download="N_Hariharan_Resume_October_2026.pdf"
                 onClick={triggerConfetti}
                 className="px-6 py-3.5 rounded-xl font-semibold text-sm text-cyan-300 bg-cyan-950/40 border border-cyan-500/40 hover:bg-cyan-500/20 hover:border-cyan-400 shadow-lg shadow-cyan-950/40 flex items-center space-x-2 transition-all active:scale-95"
               >
