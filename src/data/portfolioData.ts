@@ -59,7 +59,7 @@ export const PERSONAL_INFO = {
   location: "The Nilgiris, India",
   linkedin: "http://www.linkedin.com/in/n-hariharan-9521562a4",
   github: "https://github.com/hariharan202135",
-  resumePath: "/N_Hariharan_Resume_October_2026.pdf",
+  resumePath: "/resume/N_Hariharan_Resume_Final_October.pdf",
   education: {
     degree: "B.E. Computer Science & Engineering",
     institution: "Gnanamani College of Technology",

@@ -88,7 +88,9 @@ export default function Navbar({ activeSection }: NavbarProps) {
         <div className="hidden lg:flex items-center space-x-3">
           <a
             href={PERSONAL_INFO.resumePath}
-            download="N_Hariharan_Resume_October_2026.pdf"
+            download="N_Hariharan_Resume_Final_October.pdf"
+            target="_blank"
+            rel="noopener noreferrer"
             className="flex items-center space-x-2 px-4 py-2 rounded-xl text-xs font-medium text-cyan-300 bg-cyan-950/40 border border-cyan-500/30 hover:bg-cyan-500/20 hover:border-cyan-400 transition-all duration-300 shadow-lg shadow-cyan-950/40"
           >
             <Download className="w-3.5 h-3.5 text-cyan-400" />
@@ -110,7 +112,9 @@ export default function Navbar({ activeSection }: NavbarProps) {
         <div className="md:hidden flex items-center space-x-2">
           <a
             href={PERSONAL_INFO.resumePath}
-            download="N_Hariharan_Resume_October_2026.pdf"
+            download="N_Hariharan_Resume_Final_October.pdf"
+            target="_blank"
+            rel="noopener noreferrer"
             className="p-2 rounded-lg bg-cyan-950/40 border border-cyan-500/30 text-cyan-400 text-xs flex items-center gap-1"
             title="Download Resume"
           >
@@ -152,7 +156,9 @@ export default function Navbar({ activeSection }: NavbarProps) {
           <div className="pt-4 border-t border-gray-800/80 flex flex-col gap-3">
             <a
               href={PERSONAL_INFO.resumePath}
-              download="N_Hariharan_Resume_October_2026.pdf"
+              download="N_Hariharan_Resume_Final_October.pdf"
+            target="_blank"
+            rel="noopener noreferrer"
               onClick={() => setMobileMenuOpen(false)}
               className="w-full flex items-center justify-center space-x-2 py-3 rounded-xl text-sm font-medium text-cyan-300 bg-cyan-950/50 border border-cyan-500/30"
             >
